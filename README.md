@@ -1,7 +1,7 @@
 
 # Project :-Geekbuying.com(Clone)
 
-it is a clone of ecommerce website geeksbuing.com. her you can buy products from any corner of world.
+This is a clone of the e-commerce website GeeksBuying.com. Users can browse and purchase products from anywhere in the world.
 https://geekbuying-com.vercel.app/
 
 ## Admin login:-
